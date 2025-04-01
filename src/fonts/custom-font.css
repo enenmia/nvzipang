@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'CustomFont';
+  src: url('/fonts/special-characters.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.special-text {
+  font-family: 'CustomFont', sans-serif;
+}
