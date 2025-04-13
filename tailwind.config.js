@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        ori: ['OriNewFont', 'sans-serif'], // 添加这一行！
+        ori: ['OriNewFont', 'Source Han Sans SC'], // 添加这一行！
       },
     },
   },

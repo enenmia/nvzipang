@@ -7,4 +7,52 @@
     font-weight: 100 900;
     font-style: normal;
   }
-  
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/yong4.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/le4.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/hui2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/lv2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/nai2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/ze2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/lan2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/tuo2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+   
