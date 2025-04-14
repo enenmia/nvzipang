@@ -3,8 +3,8 @@
 @tailwind utilities;
 @font-face {
     font-family: 'OriNewFont';
-    src: url('./fonts/oriNewFont-VF(2).woff2') format('woff2');
-    font-weight: 100 900;
+    src: url('./fonts/qiang4.woff2') format('woff2');
+    font-weight: normal;
     font-style: normal;
   }
   @font-face {
@@ -55,4 +55,9 @@
     font-weight: normal;
     font-style: normal;
   }
-   
+  @font-face {
+    font-family: 'OriNewFont';
+    src: url('./fonts/qiang4.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }

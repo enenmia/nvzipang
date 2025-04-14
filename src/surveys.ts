@@ -67,7 +67,7 @@ export interface Survey {
         { text: "我是一个有智慧的人", scale: 0,method:'o',base:'wise' },
         { text: "我对自己的行为和决定负责，并努力把事情做到最好", scale: 0 ,method:'o',base:'responsible'},
         { text: "我始终尊重别人的想法和选择，即使与我自己的观点不同", scale: 0,method:'o',base:'respect' },
-        { text: "我内心A大", scale: 0 ,method:'m3',base:'strong'},
+        { text: "我内心J大", scale: 0 ,method:'m3',base:'strong'},
 
         
       ],
